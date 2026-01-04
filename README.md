@@ -1,4 +1,5 @@
-🐑 Shepherd and The Sheep – 3D OpenGL Game
+🐑 Shepherd and The Sheep 3D OpenGL Game
+
 📌 Overview
 
 Shepherd and The Sheep is a 3D survival strategy game developed using Python and PyOpenGL as part of the CSE423 – Computer Graphics course. The game takes place in a circular forest clearing where the player controls a shepherd whose main objective is to protect a group of sheep from attacking wolves across multiple day and night cycles. The game emphasizes survival, resource management, and strategic movement rather than direct combat.
